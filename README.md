@@ -32,11 +32,12 @@ Welcome to my GitHub profile!
 |------|-------------|----------|
 | [HEWPExcelADDins](https://github.com/mrgargsir/HEWPExcelADDins) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWPExcelADDins/releases) |
 | [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) |  | [Releases](https://github.com/mrgargsir/HEWPContractorextension/releases) |
-| [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  
-| [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  | 
-| [iPhone-Ringtone-Library-GarageBand-Project](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project) |  | 
-| [msofficeLTSC2021](https://github.com/mrgargsir/msofficeLTSC2021) | Microsoft Office LTSC 2021 (Excel, PowerPoint & Word Only) official full version. No crack or virus. Good for low specs PCs. | 
-| [iOS-Settings-URL](https://github.com/mrgargsir/iOS-Settings-URL) |  
+| [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  | [Releases](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub/releases) |
+| [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  | [Releases](https://github.com/mrgargsir/DNSProfile/releases) |
+| [Tutorials-Videos](https://github.com/mrgargsir/Tutorials-Videos) |  | [Releases](https://github.com/mrgargsir/Tutorials-Videos/releases) |
+| [iPhone-Ringtone-Library-GarageBand-Project](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project) |  | [Releases](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project/releases) |
+| [msofficeLTSC2021](https://github.com/mrgargsir/msofficeLTSC2021) | Microsoft Office LTSC 2021 (Excel, PowerPoint & Word Only) official full version. No crack or virus. Good for low specs PCs. | [Releases](https://github.com/mrgargsir/msofficeLTSC2021/releases) |
+| [iOS-Settings-URL](https://github.com/mrgargsir/iOS-Settings-URL) |  | [Releases](https://github.com/mrgargsir/iOS-Settings-URL/releases) |
 
 ---
 

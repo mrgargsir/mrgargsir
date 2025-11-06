@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 
 | Name | Description | Releases |
 |------|-------------|----------|
-| [HEWPExcelADDins](https://github.com/mrgargsir/HEWPExcelADDins) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWPExcelADDins/releases) |
+| [HEWPExcelADDins](https://github.com/mrgargsir/HEWPExcelADDinsOld) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWPExcelADDinsOld/releases) |
 | [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) |  | [Releases](https://github.com/mrgargsir/HEWPContractorextension/releases) |
 | [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  | [Releases](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub/releases) |
 | [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  | [Releases](https://github.com/mrgargsir/DNSProfile/releases) |

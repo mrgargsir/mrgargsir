@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 | Name | Description | Releases |
 |------|-------------|----------|
-| [HEWPExcelADDins](https://github.com/mrgargsir/HEWPExcelADDinsOld) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWPExcelADDinsOld/releases) |
+| [HEWPExcelADDins](https://github.com/mrgargsir/HEWP-Excel-Addins) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWP-Excel-Addins/releases) |
 | [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) |  | [Releases](https://github.com/mrgargsir/HEWPContractorextension/releases) |
 | [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  | [Releases](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub/releases) |
 | [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  | [Releases](https://github.com/mrgargsir/DNSProfile/releases) |
@@ -49,7 +49,7 @@ Welcome to my GitHub profile!
 |------|-------------|----------------|---------|
 | [scriptstreasure](https://github.com/mrgargsir/scriptstreasure) | Many useful scripts for different works. | PowerShell | Updated 14 minutes ago |
 | [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) | HEWP SHORTCUTS AND SEARCH BAR ITEM NO. , TENDER, AUTO FILL ITEM BUTTONS AS BOOKMARK | javascript, automation, searchbox | Updated 29 minutes ago |
-| [HEWPExcelADDins](https://github.com/mrgargsir/HEWPExcelADDins) | Haryana Engineering Works Portal BILLS, MB, HSR 2023 WITH LATEST AMENDS IN EXCEL FORMAT, REAL TIME SEARCH ITEM NO. OR DES, IN HSR, UNIT CONVERTER, AUTO HSR ITEM NO. DESCRIPTION, RATE, TYPE, UNIT… | search, templates, upload, searchbar, auto, autoscrolling, ahk-script, Python | Updated 37 minutes ago |
+| [HEWPExcelADDins](https://github.com/mrgargsir/HEWP-Excel-Addins) | Haryana Engineering Works Portal BILLS, MB, HSR 2023 WITH LATEST AMENDS IN EXCEL FORMAT, REAL TIME SEARCH ITEM NO. OR DES, IN HSR, UNIT CONVERTER, AUTO HSR ITEM NO. DESCRIPTION, RATE, TYPE, UNIT… | search, templates, upload, searchbar, auto, autoscrolling, ahk-script, Python | Updated 37 minutes ago |
 | [wifi](https://github.com/mrgargsir/wifi) |  | Shell | Updated on Jun 11 |
 | [mrgargsir](https://github.com/mrgargsir/mrgargsir) |  |  | Updated on Jun 2 |
 | [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  |  | Updated on May 25 |

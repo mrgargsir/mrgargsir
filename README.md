@@ -1,76 +1,134 @@
-# Hi, I'm Mr Garg Sir 👋
+# HEWP Tools (Excel ADDins and Chrome Extension) by mrgargsir
+Disclaimer: We are not an official HEWP and are not authorized by the Government in any way.
 
-Welcome to my GitHub profile!
+Haryana Engineering Works Portal 
+HEWP ESTIMATE, MEASUREMENT BOOK TEMPLATE, HSR 2023 WITH LATEST AMENDMENTS, REAL TIME SEARCH ITEM NO., AUTO UNIT CONVERTER, RATE, RATE TYPE, UNIT FETCHER, AUTO DATA COPY PASTE TO TEMPLATE, AUTO INTELLIGENT DATA ARRANGED IN TEMPLATES WITH 0% ERROR CHANCE, TEMPLATE EXCEL UPLOADER TO PORTAL, CHROME BOOKMARKS LINK FOR SHORTCUTS ON WEBSITE - SAVE LOTS OF TIME, SEARCH BAR FOR HSR ITEM NUMBER AND SEARCH BAR FOR TENDER And All DropDown ON HEWP PORTAL via Chrome Extension, ONE CLICK INSTALLER. Available for Both CONTRACTOR AND EMPLOYEE LOGINS.
 
-# My Best Released Product (HEWP Toolkit)
-[Visit The Website](https://mrgargsir.github.io/HEWP-Excel-Addins/)
+## 📦 Download
 
----
+Check for Updated HEWP Tools Utility Available : [Click here for Latest Version](https://mrgargsir.github.io/HEWP-Excel-Addins/)
 
-## 👷‍♂️ About Me
-
-- **Profession:** Developer & Civil Engineer  
-- **Passion:** Automating the world, one shortcut at a time  
-- **Philosophy:** Find the shortest path, automate every task, and be idle (in the best way!)
+# New installer
+Download and install onlineinstaller.exe, then follow the on-screen instructions. 
 
 ---
 
-## 🛠️ Top Skills
+# 1. 🧩 HEWP Excel ADDins – Complete Toolkit for Haryana Engineering Works Portal (HEWP) by mrgargsir
 
-- **Python** Building Automation
-- **VBA Language:** Building powerful Excel utilities, extensions, and custom shortcuts  
-- **Excel Wizardry:** I love making Excel do more, with less effort
-  
+**HEWPExcelADDins** is an all-in-one **Excel Add-In**  designed to streamline work on the **Haryana Engineering Works Portal (HEWP)**. It brings powerful automation, smart templates, and web shortcuts—making the workflow seamless for both **Contractors** and **Employees**.
+
+#### ✅ Core Features (in Excel Ribbon):
+
+* **📊 HEWP Estimate & Measurement Book Templates** – Preloaded and structured Excel formats.
+* **🔍 Real-Time Search** – Instantly find HSR items by number or description.
+* **📥 Auto Item Fetcher** – Auto-fill **Description, Rate, Rate Type, Unit** from HSR data.
+* **🧱 Auto Material Quantity Generator** - Instantly Get Consumption Details Table.
+* **📌 Smart Copy-Paste** – Automatically copy Excel data into the correct template.
+* **⬆️ Auto Upload to HEWP Portal** - Auto Upload Bill (BOQ), Rough Cost Estimate, Detailed Estimate To Portal.
+* **⬇️ Download Prefilled Data** -  Download from Portal and make a comprehensive summary with your Excel Bill (BOQ)
+* **❌ Empty Bill on Portal** - If you need to remove Bill data, Remove with it, it will automatically Remove all items data for a tender.
+* **🧠 Intelligent Data Arrangement** – Minimizes user input errors, ensuring **0% chance of misalignment**.
+* **👍 Special Log Window For Excel Error to fix** - Your Data will be With 0% Error.
+---
+
+### #### 🌐 Excel Enhancements Features in (First Tab: **`E. TOOLS`**)
+
+**📤 One-Click TOOLS** – A comprehensive Excel utility tab for generating bills, estimates, and engineering documents.
+
+1. **Jump to any Sheet** – Quickly navigate between All worksheets in a workbook with many sheets. So Useful When you have lots of worksheets. 
+2. **Refresh Sheet** – Instantly refresh the Excel in case Excel becomes unresponsive sometimes.
+3. **Insert Row** – Insert any number of Entire rows at the selected cell with ease.
+4. **Copy Current Worksheet** – Create duplicates of the active worksheet next to the Original Worksheet and Auto Select the Duplicate sheet quickly.
+5. **Feet ⇄ Meter Converter** – Convert  imperial to metric unit in all Selected Cells with one click.
+6. **Meter ⇄ Feet Converter** – Convert  metric to imperial unit in all selected cells with one click.
+7. **Meter ⇄ Kg Converter** – Convert  Meter to Kilogram unit for all selected cells with One click. It's for Manual Comparison if you want sometimes.
+8. **Toggle Sign** – Instantly switch selected values between positive and negative. Useable When You want Deduction Data.
+9. **Formulas To Constant** – Convert formulas to static values in all selected cells.
+10. **Multiply and Get Quantity** – Multiply dimensions (Nos. x length × breadth × depth) with advance formula.
+11. **Total Quantity with intelligent Unit Converter** – It will do auto Total of One item number's quantities and put in row below, then auto convert to metric units where required and put in row below of total. Also, auto convert to steel kg if required.
+12. **Auto Rate & Description Fetcher** – Automatically pull Unit, Rates, Rate Type, and Descriptions from Latest HSR 2023 (Haryana Schedule of Rates) and Amendments and insert for Each item.
+13. **Amount Calculator** – Compute amounts by multiplying rate × quantity. Also auto-calculates GST, contingency, and grand total with full sheet formatting. Apply the SR number to each item. Prepare Bill or Estimate in Good Format.
+14. **Steel Weight Calculator** – Manually Convert running meters Rebar Length to kilograms based on entered diameter and put this value below of selected total row cell.
+15. **Auto Round Off** – Dynamically apply round-off formula to each selected cell. Existing Round off auto-update on apply.
+16. **Steel Summary Generator** – Create a Dia Wise Steel Consumption summary in Kg. at the bottom of the Bill/Estimate.
+17. **Abstract Bill Summary** - Generate a complete abstract Bill or estimate summary in a new worksheet, next to the active sheet.
+18. **Bill Summary** – Generate a detailed summary in a new worksheet and if a portal-downloaded summary is opened, it will auto fetch, compare and highlight differences. It also works for Variation with DNIT QTY.
+19. **Quantity of Materials Summary** – Generate a complete Material Consumption Summary at the bottom of the Bill/Estimate. A Detailed Material Quantity Table.
 
 ---
 
-## 🚀 Favorite Projects
+### #### 🌐 Web Automation Features (Second Tab: **`Web`**)
 
-- **Excel Utilities:** Handy tools for everyday productivity  
-- **Extensions & Shortcuts:** Making workflows smoother and smarter
+**📤 One-Click Uploader** – Interact directly with the HEWP Portal from Excel.
 
+1. **Auto Login to HEWP Portal** – Securely log in with saved credentials and Keep Login details for future fast login. Login data is completely saved in your hard drive Excel file. You can verify it anytime.
+2. **Close Chrome & Clean Resources** – Closes browser sessions and frees memory.
+3. **Copy Data to HEWP Templates** – Automatically convert unit to Meter if required and transfer data into the HEWP Excel template.
+4. **HSR Item Number Selector** – Select HSR item numbers on the HEWP Portal for filling and uploading bills or estimates data.
+5. **PDF** – it will Make PDF of selected cells, attach and Upload With Manual Entry.
+6. **Upload Template to Portal** – Upload your pre-filled template directly to the HEWP Portal.
+7. **Direct Data Entry** – Skip the template; Enter data directly into the hewp portal Table.
+8. **Emp Item Number Selector** – Select item numbers and Rate Type for Employee ID on HEWP Portal for filling and uploading estimates and variations.
+9. **Website Data Scraper** – Download completed bill data from the HEWP portal in Excel Format from contractor ID, including a summary sheet.
+10. **Delete Bill Data** – Remove all previously filled bill data items in one click on the HEWP portal in Contractor Login.
+11. **Auto Upload Full Bill/Template** – Automatically upload The Whole Bill for all Users at one click in the HEWP Portal.
 ---
 
-## 📂 My Repositories
+#### 🚀 Additional Highlights:
 
-| Name | Description | Releases |
-|------|-------------|----------|
-| [HEWPExcelADDins](https://github.com/mrgargsir/HEWP-Excel-Addins) | HEWP EXCEL UPLOADER, CONVERTER, MB TEMPLATE, ONE CLICK INSTALLER | [Releases](https://github.com/mrgargsir/HEWP-Excel-Addins/releases) |
-| [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) |  | [Releases](https://github.com/mrgargsir/HEWPContractorextension/releases) |
-| [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  | [Releases](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub/releases) |
-| [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  | [Releases](https://github.com/mrgargsir/DNSProfile/releases) |
-| [Tutorials-Videos](https://github.com/mrgargsir/Tutorials-Videos) |  | [Releases](https://github.com/mrgargsir/Tutorials-Videos/releases) |
-| [iPhone-Ringtone-Library-GarageBand-Project](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project) |  | [Releases](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project/releases) |
-| [msofficeLTSC2021](https://github.com/mrgargsir/msofficeLTSC2021) | Microsoft Office LTSC 2021 (Excel, PowerPoint & Word Only) official full version. No crack or virus. Good for low specs PCs. | [Releases](https://github.com/mrgargsir/msofficeLTSC2021/releases) |
-| [iOS-Settings-URL](https://github.com/mrgargsir/iOS-Settings-URL) |  | [Releases](https://github.com/mrgargsir/iOS-Settings-URL/releases) |
-
-
-| Name | Description | Languages/Tags | Updated |
-|------|-------------|----------------|---------|
-| [scriptstreasure](https://github.com/mrgargsir/scriptstreasure) | Many useful scripts for different works. | PowerShell | Updated 14 minutes ago |
-| [HEWPContractorextension](https://github.com/mrgargsir/HEWPContractorextension) | HEWP SHORTCUTS AND SEARCH BAR ITEM NO. , TENDER, AUTO FILL ITEM BUTTONS AS BOOKMARK | javascript, automation, searchbox | Updated 29 minutes ago |
-| [HEWPExcelADDins](https://github.com/mrgargsir/HEWP-Excel-Addins) | Haryana Engineering Works Portal BILLS, MB, HSR 2023 WITH LATEST AMENDS IN EXCEL FORMAT, REAL TIME SEARCH ITEM NO. OR DES, IN HSR, UNIT CONVERTER, AUTO HSR ITEM NO. DESCRIPTION, RATE, TYPE, UNIT… | search, templates, upload, searchbar, auto, autoscrolling, ahk-script, Python | Updated 37 minutes ago |
-| [wifi](https://github.com/mrgargsir/wifi) |  | Shell | Updated on Jun 11 |
-| [mrgargsir](https://github.com/mrgargsir/mrgargsir) |  |  | Updated on Jun 2 |
-| [Our-Shortcuts-on-Routinhub](https://github.com/mrgargsir/Our-Shortcuts-on-Routinhub) |  |  | Updated on May 25 |
-| [DNSProfile](https://github.com/mrgargsir/DNSProfile) |  |  | Updated on May 20 |
-| [iPhone-Ringtone-Library-GarageBand-Project](https://github.com/mrgargsir/iPhone-Ringtone-Library-GarageBand-Project) |  |  | Updated on Mar 27 |
-| [msofficeLTSC2021](https://github.com/mrgargsir/msofficeLTSC2021) | Microsoft Office LTSC 2021 (Excel, PowerPoint & Word Only) official full version. No crack or virus. Good for low specs PCs. | Batchfile | Updated on Mar 26 |
-| [iOS-Settings-URL](https://github.com/mrgargsir/iOS-Settings-URL) |  |  |  |
-
+* **Available for both Contractor & Employee**
+* **One-click installer**
+* **Simple setup with zero technical skills required**
 ---
 
-## 🔗 Connect with Me
 
-- **Everywhere:** [@mrgargsir](https://github.com/mrgargsir)
+# 2. **MRGARGSIR Chrome Extension (Free with Addins - No Extra Charges)**  
 
----
+🚀 **A productivity extension for HEWP (Haryana Engineering Works Portal) automation.**  
+📌 **Developer:** **MRGARGSIR**  
 
-## 🤖 Fun Fact
+## **🔧 Main Features of ChromeExtension**  
 
-I always look for ways to automate every piece of work—so I can focus on what really matters (or just be blissfully idle).
+**🔗 Add Important Bookmarks** – Add Advanced Bookmarks which will make easy use of the HEWP Portal.
+**🔍 Smart Tender Search** – Enhanced dropdown search for tenders.
+**☑️ Toggle All Checkbox.**  
+**🎯 Enter Button Fixes** (Pressing the Enter button will not clear the form on the HEWP portal anymore)  
+**🆕 Volume Increase** (Volume increase features when low volume media is a problem)  
+**✅ Dark Mode** (Enable Dark mode on all websites)
 
----
+MRGARGSIR SUITE - INSTALLATION GUIDE
 
-> _"I need, I build."_  
-> — mrgargsir
+SYSTEM REQUIREMENTS:
+- Windows 7 To Windows 11
+- Microsoft Excel 2016 or later
+- Google Chrome browser
+- 800 MB free disk space
+
+📋 BEFORE YOU INSTALL:
+1. Close all Microsoft Excel windows
+2. Close the Google Chrome browser
+3. You need administrator rights
+
+📦 INSTALLATION:
+1. Extract all files to a folder (if zip.)
+2. Right-click "Installer.exe"
+3. Choose "Run as administrator"
+4. If Windows shows a security warning, click "More info" → "Run anyway"
+5. Enter install key when prompted (if not already prefilled)
+6. Click Next → Next → Install
+7. Wait for completion (1-2 minutes)
+
+🔑 YOUR INSTALL KEY:
+[PROVIDED UNIQUE KEY TO EACH USER]
+
+⚠️ TROUBLESHOOTING:
+- "Invalid install key" → Check you entered the key correctly
+- Excel add-in not loading → Restart Excel after installation
+- Chrome extension not working → Restart Chrome
+- Expired Installer → Contact MRGARGSIR for updated version
+
+📞 SUPPORT:
+Email: advancetool.help@zohomail.in
+Get Updates: https://mrgargsir.github.io/HEWP-Excel-Addins/
+
+**Thank you for using MRGARGSIR Tools!** 🚀

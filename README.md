@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ## 🛠️ Top Skills
 
 - **Python** Building Automation
+- **C#** VSTO Addins 
 - **VBA Language:** Building powerful Excel utilities, extensions, and custom shortcuts  
 - **Excel Wizardry:** I love making Excel do more, with less effort
   
